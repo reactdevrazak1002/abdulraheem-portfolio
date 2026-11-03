@@ -99,10 +99,3 @@ footer .logo{color:#fff}footer .logo b{color:#C9A05E}
 .page{padding:56px 0 72px}.prose{max-width:760px}.prose h2{font-size:22px;margin:28px 0 8px}.prose p,.prose li{color:var(--muted)}
 .edit{background:var(--bg2);border-left:4px solid var(--teal);padding:12px 16px;border-radius:10px;font-size:14px;color:var(--muted)}
 .ok{color:var(--at)}.bad{color:#dc2626}
-
-.sgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:20px}
-.sc{align-items:flex-start;gap:16px}.sc h3{font-size:19px;flex:1}.sc .btn{width:100%;min-height:44px;font-size:14px;padding:0 12px}
-.num{font:800 34px var(--font-manrope);color:var(--at);opacity:.9}
-.ctaband{background:linear-gradient(135deg,var(--deep),var(--navy));color:#fff;border-radius:28px;padding:44px 36px;display:flex;flex-wrap:wrap;gap:24px;align-items:center;justify-content:space-between;box-shadow:var(--sh)}
-.ctaband h2{margin:0 0 6px;color:#fff}.ctaband p{margin:0;color:#cbd5e1}
-form h3{font-size:20px}
